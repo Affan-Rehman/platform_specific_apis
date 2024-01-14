@@ -13,7 +13,7 @@ import io.flutter.embedding.engine.FlutterEngine;
 import io.flutter.plugin.common.BinaryMessenger;
 import io.flutter.plugin.common.MethodChannel;
 
-class MainActivity extends FlutterActivity {
+public class MainActivity extends FlutterActivity {
     private MethodChannel channel;
     @Override
     public void configureFlutterEngine(@NonNull FlutterEngine flutterEngine) {

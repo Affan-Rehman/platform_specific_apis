@@ -56,5 +56,6 @@ class _PlatformChannelState extends State<PlatformChannel> {
 }
 
 void main() {
-  runApp(const MaterialApp(home: PlatformChannel()));
+  runApp(const MaterialApp(
+      debugShowCheckedModeBanner: false, home: PlatformChannel()));
 }
