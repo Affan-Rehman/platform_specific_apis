@@ -1,3 +1,3 @@
 # platform_specific_apis
 
-A new Flutter project.
+practicing platforn specific apis in java(cause i know java :p)
